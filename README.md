@@ -1,7 +1,8 @@
 # Panicore Modding Wiki
 
-Mod users start HERE
-Mod creators start HERE
+Mod users start [HERE](https://github.com/ue-modding/panicore/wiki/Installing-and-using-mods)
+
+Mod creators start [HERE](https://github.com/ue-modding/panicore/wiki/Creating-mods)
 
 ## Purpose
 
