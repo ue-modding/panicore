@@ -21,4 +21,4 @@ Please feel free to contribute to anything you think should be improved!
 
 ## Contributing
 
-Anyone can edit this wiki, as long as you have a GitHub account. Create a Pull Request!
+Sadly Github doesn't support Pull Requests for wikis yet, so we'll have to go by few manual steps. If you want to contribute to the wiki; [open up a new issue](https://github.com/ue-modding/panicore/issues/new) with the requested changes! If you have larger changes (like adding a page), please link them as a public [gist](https://gist.github.com/) to the issue description!
